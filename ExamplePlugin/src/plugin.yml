@@ -1,0 +1,6 @@
+name: Example Plugin
+main: ew.sr.x1c.quilt.meow.example.plugin.PluginMain
+version: 0.03
+author: ew.sr.x1c.quilt.meow
+website: http://www.quilt.idv.tw/
+description: 範例插件
